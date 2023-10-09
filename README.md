@@ -11,8 +11,8 @@ Scanning the QR code prompts a "Text +1..." popup. Tapping that popup shows the 
 ![image](https://github.com/AlexDial624/Twilio-Text-Subscription/assets/29134239/42c59c84-b3ca-4563-9327-bd06655a619b)
 
 Clicking Send on that sends a text. Within 60s, the user receives the defined signup text (easily changeable)
-![image](https://github.com/AlexDial624/Twilio-Text-Subscription/assets/29134239/4f9e040d-2d52-4dab-882c-77bbca08455b)
-![image](https://github.com/AlexDial624/Twilio-Text-Subscription/assets/29134239/0668914a-55b8-4bba-9700-89e6304880e2)
+![image](https://github.com/AlexDial624/Twilio-Text-Subscription/assets/29134239/d8243460-2e77-4e9b-936e-28c22b88ada5)
+
 
 For future messages, authenticated numbers can text Broadcast [insert message here] and after confirming the content is as desired, this will be broadcasted out to all registered signups
 ![image](https://github.com/AlexDial624/Twilio-Text-Subscription/assets/29134239/12b6bf3c-7245-46d1-b564-9790a89160e1)
