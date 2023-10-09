@@ -27,5 +27,4 @@ For future messages, authenticated numbers can text Broadcast [insert message he
 
 In Twilio, this is managed through a studio flow, with custom functions and data stored in a Twilio data map.
 ![image](https://github.com/AlexDial624/Twilio-Text-Subscription/assets/29134239/0236fa5e-df72-4de6-a4d7-f9c2a6fd962e)
-
 ![image](https://github.com/AlexDial624/Twilio-Text-Subscription/assets/29134239/81396f8d-c1ce-4427-92a9-7a9514ca903b)
